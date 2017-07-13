@@ -1,0 +1,11 @@
+*.csproj
+*.pidb
+*.sln
+*.userprefs
+.vs
+.idea
+Library
+Build
+Temp
+CMD/Logs
+obj
